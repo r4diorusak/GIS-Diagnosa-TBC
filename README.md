@@ -111,9 +111,12 @@ Tabel-tabel utama dapat dilihat di file `DB-SCHEMA.sql` dan `gis.sql`
 
 MIT License - Lihat dokumentasi CodeIgniter untuk detail lebih lanjut.
 
-## Penulis
+## Penulis & Kredit
 
-- r4diorusak
+- **Khairul Adha**
+  - Email: r4dioz.88@gmail.com
+  - Website: www.rainbowcodec.com
+  - GitHub: r4diorusak
 
 ## Kontribusi
 
